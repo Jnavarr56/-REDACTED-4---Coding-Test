@@ -14,3 +14,10 @@ export enum Rotation {
   Left = 'L',
   Right = 'R'
 }
+
+export type InstructionStep = Rotation | 'M';
+
+export enum Axis {
+  x = 'x',
+  y = 'y'
+}
