@@ -126,13 +126,3 @@ class CLI {
 }
 
 export default CLI;
-
-// tk69 -> imma eff u up worse than u effed that underaged girl
-// lil uzi vert -->
-// big sean -->
-// young thug -->
-// swae lee --> midget
-// drake --> get ready to get back in a wheelchair
-// young mia -->
-// bad bunny -->
-// logik
